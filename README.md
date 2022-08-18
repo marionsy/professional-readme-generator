@@ -30,12 +30,9 @@
   
   ![Screen Shot 2022-08-18 at 11 17 35 AM](https://user-images.githubusercontent.com/105673031/185468066-cca60c3e-4ced-4f9e-a465-c90395ed0b44.png)
   
-   ## Video Demo
+  ## Video Demo
 
-   https://user-images.githubusercontent.com/105673031/185480128-f0b97690-291a-4079-b2ec-c3e8582d1281.mov
-
-
-
+  https://user-images.githubusercontent.com/105673031/185483141-b5db9636-8936-41ff-bae0-74aa6e5724d8.mov
 
   ## Features
   
