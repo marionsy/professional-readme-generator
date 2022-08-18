@@ -24,13 +24,18 @@
      * Questions- link to GitHub profile, email instructions
      * License- chosen badge will appear near the top as well as under the license section
   
-  ## Screenshot and Demo
+  ## Screenshot
   
   This screenshot is the README.md generated from the video demo
   
   ![Screen Shot 2022-08-18 at 11 17 35 AM](https://user-images.githubusercontent.com/105673031/185468066-cca60c3e-4ced-4f9e-a465-c90395ed0b44.png)
   
-   * [Video Demo](https://drive.google.com/file/d/1guAhp1p4_Lbv8HQ_fjJ1qvXf5lrq4Iin/view)
+   ## Video Demo
+
+   https://user-images.githubusercontent.com/105673031/185480128-f0b97690-291a-4079-b2ec-c3e8582d1281.mov
+
+
+
 
   ## Features
   
