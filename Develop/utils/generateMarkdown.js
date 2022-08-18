@@ -37,7 +37,7 @@ function generateMarkdown(data) {
 
    * View my [GitHub profile](https://github.com/${data.github})
 
-   * For additional questions, please [send an email](mailto:${data.email})
+   * For additional questions, please [send me an email](mailto:${data.email})
   
   ## License
 
