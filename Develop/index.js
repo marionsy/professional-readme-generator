@@ -18,7 +18,7 @@ const questions = [
     {
         name: 'installation',
         type: 'input',
-        message: 'What are the instructions for installation?'
+        message: 'What command should be run to install dependencies?'
     },
     {
         name: 'usage',
@@ -33,12 +33,12 @@ const questions = [
     {
         name: 'test',
         type: 'input',
-        message: 'What are the test instructions?'
+        message: 'What command should be run to run tests?'
     },
     {
         name: 'license',
         type: 'list',
-        message: 'Choose a license for your project.',
+        message: 'Which license would you like your project to have?',
         choices: ["Apache license 2.0", "ISC", "MIT", "GNU GPL v3"]
     },
     {
@@ -56,7 +56,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
-        err ? console.error(err) : console.log('Success!')
+        err ? console.error(err) : console.log('README file created successfully!')
     );
 }
 
